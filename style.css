@@ -1,0 +1,151 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #E5E5E5;
+}
+
+.container{
+    margin: auto;
+    width: 1250px;
+    height: 650px;
+    padding: 5px;
+}
+
+.logo{
+    width: 70%;
+    float: left;
+    
+}
+
+.area1{
+    float: left;
+    width: 70%;
+    height: 70%;
+    border-radius: 24px;
+    
+
+}
+
+.area2{
+    float: right;
+    width: 28%;
+    height: 98%;
+    border-radius: 24px;
+    background: #f6f7f9;
+    box-shadow: 0px 15px 25px -8px rgba(0,0,0, 0.78);
+    margin-top: -50px;
+}
+
+.button-area1{
+    float: left;
+    width: 70%;
+    height: auto;
+    border-radius: 24px;
+    
+
+}
+
+.logoimg{
+    margin-top: 1%;
+    margin-left: 5%;
+    float: inherit;
+
+}
+
+.tittle{
+    float: left;
+    margin-left: 25%;
+    color: #0A3871;
+    text-shadow: 4px 8px 8px #0A3871;
+   
+}
+
+.text-area1{
+    float:left;
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 80%;
+    height: 60%;
+    color: #0A3871;
+    font-size: 24px;
+    border: none;
+    outline: none;
+    background: #E5E5E5;
+}
+
+#logo2{
+    margin-left: 6%;
+    margin-top: 10%;
+    width: 90%;
+    height: auto;
+
+}
+
+#nota2 {
+    margin-left: 12%;
+    margin-right: 8%;
+    color: #0A3871;
+    text-shadow: 2px 4px 4px #0A3871;
+    font-size: 26px;
+    margin-top: 40px;
+
+}
+
+#text-area2 {
+    float:left;
+    margin-top: 40px;
+    margin-left: 10%;
+    width: 80%;
+    height: 30%;
+    color: #0A3871;
+    font-size: 15px;
+    border: none;
+    border-radius: 15px;
+    outline: none;
+    background: #f6f7f9;
+
+}
+
+#nota{
+    margin-left: 15%;
+    color: #0A3871;
+    
+}
+
+#btnencriptar{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    margin-left: 15%;
+    border-radius: 24px;
+    background: #0A3871;
+    box-shadow: 0px 10px 24px -8px rgba(0,0,0, 0.78);
+    border: none;
+    color: #E5E5E5;
+}
+
+#btndesencriptar{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    margin-left: 10%;
+    border-radius: 24px;
+    background: #20603d;
+    box-shadow: 0px 10px 24px -8px rgba(0,0,0, 0.78);
+    border: none;
+    
+}
+
+#Copiar {
+    margin-left: 30%;
+    margin-top: 155%;
+    padding: 24px;
+    width: 40%;
+    height: 10%;
+    background: #E5E5E5;
+    box-shadow: 0px 10px 24px -8px rgba(0,0,0, 0.78);
+    border-radius: 24px;
+    border: none;
+    display: none;
+
+}
